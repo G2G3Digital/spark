@@ -110,7 +110,7 @@
 	</distributionManagement> -->
 
 	<scm>
-        <developerConnection>scm:git:git://github.com:technophobia/spark.git</developerConnection>
+        <developerConnection>scm:git:git://github.com/technophobia/spark.git</developerConnection>
 	 <url>https://github.com/technophobia/spark.git</url>
     </scm>
 
